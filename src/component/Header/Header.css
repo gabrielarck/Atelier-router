@@ -1,0 +1,15 @@
+a, li {
+    text-decoration: none;
+    list-style: none;
+}
+.Navbar{
+    display: flex;
+    justify-content: flex-end;  
+    margin-right: 2em;
+
+}
+.Navbar li{
+    margin: 1em;
+    border-left: solid;
+    padding-left: 1em;
+}
