@@ -6,10 +6,12 @@ a, li {
     display: flex;
     justify-content: flex-end;  
     margin-right: 2em;
-
 }
 .Navbar li{
     margin: 1em;
     border-left: solid;
     padding-left: 1em;
 }
+.active{
+    color:red;
+  }
